@@ -1,0 +1,24 @@
+a {
+	color:red;
+	font-size:16px;
+}
+
+div {
+	color: #B55B1F;
+}
+
+#my_link {
+		color:lime;
+}
+
+#test_link {
+	color:red;
+	font-size:20px
+}
+
+.human {
+	color: red;
+}
+.animal {
+	color: green;
+} 
